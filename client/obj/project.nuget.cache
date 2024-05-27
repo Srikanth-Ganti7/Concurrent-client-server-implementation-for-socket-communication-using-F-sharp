@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZ9wAfxzINCU4RX6RW9NQhWlE1odt8UYh2RLaRgonDnpAudwmPYUoadfqc0JxO+8M/jlMu8IG3wOb4MXUFq2ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikhi\\DOSP\\ServerClient\\client\\client.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhi\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
